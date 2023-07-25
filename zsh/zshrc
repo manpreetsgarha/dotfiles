@@ -107,4 +107,3 @@ source $ZSH/oh-my-zsh.sh
 # pnpm end
 # export PATH=$(go env GOPATH)/bin:$PATH
 
-source ~/.bash_profile
